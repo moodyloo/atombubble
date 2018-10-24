@@ -17,6 +17,10 @@
             {
               "label": "Toggle",
               "command": "atombubble:toggle"
+            },
+            {
+              "label": "Extract",
+              "command": "atombubble:extract"
             }
           ]
         }
