@@ -5,8 +5,8 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "atombubble:toggle",
-    "atom-workspace": "atombubble:extract"
+    "atom-workspace": "atombubble:extract",
+    "atom-workspace": "atombubble:toggle"
   },
   "repository": "https://github.com/atom/atombubble",
   "license": "MIT",
@@ -15,5 +15,10 @@
   },
   "dependencies": {
     "ejs": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
   }
 }
