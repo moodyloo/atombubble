@@ -1,0 +1,5 @@
+<PROJECT NAME='test' BASE='C:\Users\qi_qi\github\AtomBubble\atombubble\test'>
+  <PATH DIR='C:\Users\qi_qi\github\AtomBubble\atombubble\test' USER='true' EXCLUDE='false' NEST='false' />
+  <PATH DIR='C:\Users\qi_qi\github\AtomBubble\atombubble\test\node_modules' USER='false' EXCLUDE='false' NEST='true' />
+  <PREFERENCES />
+</PROJECT>
