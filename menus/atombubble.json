@@ -2,8 +2,21 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atombubble",
-        "command": "atombubble:toggle"
+        "label": "atombubble",
+        "submenu": [
+          {
+            "label": "Toggle",
+            "command": "atombubble:toggle"
+          },
+          {
+            "label": "Extract",
+            "command": "atombubble:extract"
+          },
+          {
+            "label": "Bubblify",
+            "command":"atombubble:bubblify"
+          }
+        ]
       }
     ]
   },
@@ -21,6 +34,10 @@
             {
               "label": "Extract",
               "command": "atombubble:extract"
+            },
+            {
+              "label": "Bubblify",
+              "command":"atombubble:bubblify"
             }
           ]
         }
