@@ -33,6 +33,7 @@
     "react-dnd-html5-backend": "^7.0.0",
     "react-dom": "^16.6.3",
     "react-gojs": "^3.0.0",
+    "react-svg": "^7.2.6",
     "styled-components": "^4.1.1",
     "vue": "^2.5.17",
     "webpack": "^4.29.3"
