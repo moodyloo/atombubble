@@ -22,7 +22,7 @@
     "@githubprimer/octicons-react": "^8.3.0",
     "@shopify/draggable": "^1.0.0-beta.8",
     "atom-languageclient": "^0.9.9",
-    "bootstrap": "^3.4.0",
+    "bootstrap": ">=3.4.1",
     "ejs": "^2.6.1",
     "electron": "^4.0.5",
     "electron-rebuild": "^1.8.4",
