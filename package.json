@@ -7,6 +7,18 @@
   "activationCommands": {
     "atom-workspace": "atombubble:toggle"
   },
+  "providedServices": {
+    "code-format.onType": {
+      "versions": {
+        "0.1.0": "provideOnTypeCodeFormat"
+      }
+    },
+    "code-format.onSave": {
+      "versions": {
+        "0.1.0": "provideOnSaveCodeFormat"
+      }
+    }
+  },
   "scripts": {
     "build": "webpack --config webpack.config.js"
   },
