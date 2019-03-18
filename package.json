@@ -1,8 +1,8 @@
 {
   "name": "atombubble",
   "main": "./lib/atombubble",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "Code Bubbles for the Atom Editor",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "atombubble:toggle"
