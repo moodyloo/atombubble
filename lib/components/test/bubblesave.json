@@ -1,5 +1,31 @@
 {
 	"workingset": [
+		[
+			{
+				"id": "fcf1dd3e-d5f2-4a90-a1f8-e916058d6b85",
+				"model": "",
+				"colour": "rgb(160,126,252)",
+				"func": "getY",
+				"filename": "test2.js",
+				"x": -13,
+				"y": -13,
+				"width": 300,
+				"height": 400
+			},
+			{
+				"id": "be97dd53-07c1-4eaa-ab59-e2effcda5acd",
+				"model": "",
+				"colour": "rgb(237,126,252)",
+				"func": "getZ",
+				"filename": "test.js",
+				"x": 249,
+				"y": 161,
+				"width": 300,
+				"height": 400
+			}
+		],
+		[],
+		[],
 		[]
 	]
 }
