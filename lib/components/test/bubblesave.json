@@ -2,30 +2,36 @@
 	"workingset": [
 		[
 			{
-				"id": "b15038c6-772b-4d01-a6f4-9fcc8258659c",
+				"id": "18a7c513-42b5-4a95-a1e9-254382a8c078",
 				"model": "",
-				"colour": "rgb(137,252,126)",
+				"colour": "rgb(126,134,252)",
 				"func": "subtestX",
 				"filename": "subtest.js",
-				"x": -13,
-				"y": -13,
-				"width": 300,
-				"height": 400
+				"x": -15,
+				"y": 363,
+				"width": 422,
+				"height": 232
 			},
 			{
-				"id": "a4893ab5-4d77-4f5d-a9f9-a462009a5813",
+				"id": "26404ec5-eedf-4756-a828-2af5dbc07513",
 				"model": "",
-				"colour": "rgb(126,240,252)",
+				"colour": "rgb(129,252,126)",
 				"func": "getZ",
 				"filename": "test.js",
-				"x": 293,
-				"y": 133,
-				"width": 300,
-				"height": 400
+				"x": 563,
+				"y": 23,
+				"width": 367,
+				"height": 156
 			}
 		]
 	],
 	"bubblelinks": [
-		[]
+		[
+			{
+				"id": "afc1eeaf-6300-420a-bfff-37dad24b5e77",
+				"start": "26404ec5-eedf-4756-a828-2af5dbc07513",
+				"end": "18a7c513-42b5-4a95-a1e9-254382a8c078"
+			}
+		]
 	]
 }
