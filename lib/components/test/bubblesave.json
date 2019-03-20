@@ -2,35 +2,102 @@
 	"workingset": [
 		[
 			{
-				"id": "18a7c513-42b5-4a95-a1e9-254382a8c078",
+				"id": "04a84465-cd94-4387-976c-49d2d7c537dd",
 				"model": "",
-				"colour": "rgb(126,134,252)",
+				"colour": "rgb(126,136,252)",
 				"func": "subtestX",
 				"filename": "subtest.js",
 				"x": -15,
-				"y": 363,
-				"width": 422,
-				"height": 232
+				"y": -6,
+				"width": 300,
+				"height": 400
 			},
 			{
-				"id": "26404ec5-eedf-4756-a828-2af5dbc07513",
+				"id": "d1eebf15-a770-4adb-8df1-f9a58746afd9",
 				"model": "",
-				"colour": "rgb(129,252,126)",
+				"colour": "rgb(140,126,252)",
 				"func": "getZ",
 				"filename": "test.js",
-				"x": 563,
-				"y": 23,
-				"width": 367,
-				"height": 156
+				"x": 479,
+				"y": 379,
+				"width": 426.98748779296875,
+				"height": 154
+			},
+			{
+				"id": "52fa18a3-4db8-43bc-adff-b996b0a51ea3",
+				"model": "",
+				"colour": "rgb(130,126,252)",
+				"func": "subtestX",
+				"filename": "subtest.js",
+				"x": 627,
+				"y": -15,
+				"width": 360,
+				"height": 219.00001525878906
+			},
+			{
+				"id": "58939227-f171-45a4-a223-7a988256071d",
+				"model": "",
+				"colour": "rgb(252,171,126)",
+				"func": "eatFood",
+				"filename": "test3.js",
+				"x": 86,
+				"y": 452,
+				"width": 333,
+				"height": 114
 			}
 		]
 	],
 	"bubblelinks": [
 		[
 			{
-				"id": "afc1eeaf-6300-420a-bfff-37dad24b5e77",
-				"start": "26404ec5-eedf-4756-a828-2af5dbc07513",
-				"end": "18a7c513-42b5-4a95-a1e9-254382a8c078"
+				"id": "f79a0631-376d-48cd-b7d5-7d5cd8ac3b4d",
+				"start": {
+					"id": "04a84465-cd94-4387-976c-49d2d7c537dd",
+					"model": "",
+					"colour": "rgb(126,136,252)",
+					"func": "subtestX",
+					"filename": "subtest.js",
+					"x": -15,
+					"y": -6,
+					"width": 300,
+					"height": 400
+				},
+				"end": {
+					"id": "d1eebf15-a770-4adb-8df1-f9a58746afd9",
+					"model": "",
+					"colour": "rgb(140,126,252)",
+					"func": "getZ",
+					"filename": "test.js",
+					"x": 479,
+					"y": 379,
+					"width": 426.98748779296875,
+					"height": 154
+				}
+			},
+			{
+				"id": "df12e3cf-10fe-444e-b706-385ce699f4c1",
+				"start": {
+					"id": "52fa18a3-4db8-43bc-adff-b996b0a51ea3",
+					"model": "",
+					"colour": "rgb(130,126,252)",
+					"func": "subtestX",
+					"filename": "subtest.js",
+					"x": 627,
+					"y": -15,
+					"width": 360,
+					"height": 219.00001525878906
+				},
+				"end": {
+					"id": "58939227-f171-45a4-a223-7a988256071d",
+					"model": "",
+					"colour": "rgb(252,171,126)",
+					"func": "eatFood",
+					"filename": "test3.js",
+					"x": 86,
+					"y": 452,
+					"width": 333,
+					"height": 114
+				}
 			}
 		]
 	]
