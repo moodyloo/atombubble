@@ -2,112 +2,101 @@
 	"workingset": [
 		[
 			{
-				"id": "04a84465-cd94-4387-976c-49d2d7c537dd",
+				"id": "398b1bd3-2c76-484c-9ef9-eaff8fa37410",
 				"model": "",
-				"colour": "rgb(126,136,252)",
+				"colour": "rgb(159,126,252)",
 				"func": "subtestX",
 				"filename": "subtest.js",
-				"x": 534,
-				"y": 344,
-				"width": 365,
-				"height": 231
+				"x": 67,
+				"y": 13,
+				"width": 300,
+				"height": 400
 			},
 			{
-				"id": "d1eebf15-a770-4adb-8df1-f9a58746afd9",
+				"id": "4593e25b-585d-4573-a43b-53362a89f637",
 				"model": "",
-				"colour": "rgb(140,126,252)",
+				"colour": "rgb(252,126,196)",
 				"func": "getZ",
 				"filename": "test.js",
-				"x": 513,
-				"y": 9,
-				"width": 426.98748779296875,
-				"height": 154
+				"x": 884,
+				"y": 292,
+				"width": 300,
+				"height": 400
 			},
 			{
-				"id": "52fa18a3-4db8-43bc-adff-b996b0a51ea3",
+				"id": "b643dce7-d816-4abd-955a-f091a043be80",
 				"model": "",
-				"colour": "rgb(130,126,252)",
-				"func": "subtestX",
-				"filename": "subtest.js",
-				"x": 87,
-				"y": 10,
-				"width": 360,
-				"height": 219.00001525878906
-			},
-			{
-				"id": "58939227-f171-45a4-a223-7a988256071d",
-				"model": "",
-				"colour": "rgb(252,171,126)",
+				"colour": "rgb(126,252,216)",
 				"func": "eatFood",
 				"filename": "test3.js",
-				"x": 86,
-				"y": 452,
-				"width": 333,
-				"height": 114
+				"x": 766,
+				"y": 27,
+				"width": 422,
+				"height": 128
 			},
 			{
-				"id": "90765279-6822-4075-8ffc-4d6d6ec9c870",
+				"id": "75d6e2e6-4dfe-4595-a2b6-1832854a4fff",
 				"model": "",
-				"colour": "rgb(252,232,126)",
+				"colour": "rgb(177,126,252)",
 				"func": "subtestX",
 				"filename": "subtest.js",
-				"x": 1014,
-				"y": 58,
-				"width": 350,
-				"height": 227.99996948242188
+				"x": 286,
+				"y": 463,
+				"width": 300,
+				"height": 400
 			}
 		]
 	],
 	"bubblelinks": [
 		[
 			{
-				"id": "f79a0631-376d-48cd-b7d5-7d5cd8ac3b4d",
+				"id": "52d92755-5e66-402f-80fe-44c154feddc5",
 				"start": {
-					"id": "04a84465-cd94-4387-976c-49d2d7c537dd",
+					"id": "4593e25b-585d-4573-a43b-53362a89f637",
 					"model": "",
-					"colour": "rgb(126,136,252)",
-					"func": "subtestX",
-					"filename": "subtest.js",
-					"x": 534,
-					"y": 344,
-					"width": 365,
-					"height": 231
-				},
-				"end": {
-					"id": "d1eebf15-a770-4adb-8df1-f9a58746afd9",
-					"model": "",
-					"colour": "rgb(140,126,252)",
+					"colour": "rgb(252,126,196)",
 					"func": "getZ",
 					"filename": "test.js",
-					"x": 513,
-					"y": 9,
-					"width": 426.98748779296875,
-					"height": 154
+					"x": 884,
+					"y": 292,
+					"width": 300,
+					"height": 400
+				},
+				"end": {
+					"id": "398b1bd3-2c76-484c-9ef9-eaff8fa37410",
+					"model": "",
+					"colour": "rgb(159,126,252)",
+					"func": "subtestX",
+					"filename": "subtest.js",
+					"x": 67,
+					"y": 13,
+					"width": 300,
+					"height": 400
 				}
 			},
 			{
-				"id": "df12e3cf-10fe-444e-b706-385ce699f4c1",
+				"id": "e793177c-6c38-43c4-a6a0-ad5cccddfd71",
 				"start": {
-					"id": "52fa18a3-4db8-43bc-adff-b996b0a51ea3",
+					"id": "75d6e2e6-4dfe-4595-a2b6-1832854a4fff",
 					"model": "",
-					"colour": "rgb(130,126,252)",
+					"colour": "rgb(177,126,252)",
 					"func": "subtestX",
 					"filename": "subtest.js",
-					"x": 87,
-					"y": 10,
-					"width": 360,
-					"height": 219.00001525878906
+					"x": 286,
+					"y": 463,
+					"width": 300,
+					"height": 400
 				},
 				"end": {
-					"id": "58939227-f171-45a4-a223-7a988256071d",
+					"id": "b643dce7-d816-4abd-955a-f091a043be80",
 					"model": "",
-					"colour": "rgb(252,171,126)",
+					"colour": "rgb(126,252,216)",
 					"func": "eatFood",
 					"filename": "test3.js",
-					"x": 86,
-					"y": 452,
-					"width": 333,
-					"height": 114
+					"x": 766,
+					"y": 27,
+					"width": 422,
+					"height": 128
 				}
 			}
 		]
