@@ -1,6 +1,8 @@
-A project inspired by the existing Code Bubbles on the Eclipse IDE.
+A 3rd year University project for King's College London, inspired by the existing Code Bubbles on the Eclipse IDE.
 
 Built on Atom using ReactJS
+
+Author: Ming Xuan Wu
 
 
 
