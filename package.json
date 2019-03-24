@@ -1,7 +1,7 @@
 {
   "name": "atombubble",
   "main": "./lib/atombubble",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Code Bubbles for the Atom Editor",
   "keywords": [],
   "activationCommands": {
