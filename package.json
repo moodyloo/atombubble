@@ -13,7 +13,7 @@
   "deserializers": {
     "atombubble/AtomBubbleView": "deserializeAtomBubbleView"
   },
-  "repository": "https://github.com/atom/atombubble",
+  "repository": "https://github.com/moodyloo/atombubble",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -46,7 +46,6 @@
     "react-gojs": "^3.0.0",
     "react-svg": "^7.2.12",
     "styled-components": "^4.1.1",
-    "tree-sitter": "^0.13.23",
     "uuid": "^3.3.2",
     "vue": "^2.5.17",
     "webpack": "^4.29.3",
