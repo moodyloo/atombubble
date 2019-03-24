@@ -4,10 +4,10 @@ A 3rd year University project for King's College London, inspired by the existin
 
                                      _                    ____        _     _     _           
                                 /\  | |                  |  _ \      | |   | |   | |          
-                               /  \ | |_ ___  _ __ ___   | |_) |_   _| |__ | |__ | | ___  ___ 
-                              / /\ \| __/ _ \| '_ ` _ \  |  _ <| | | | '_ \| '_ \| |/ _ \/ __|
-                             / ____ \ || (_) | | | | | | | |_) | |_| | |_) | |_) | |  __/\__ \
-                            /_/    \_\__\___/|_| |_| |_| |____/ \__,_|_.__/|_.__/|_|\___||___/
+                               /  \ | |_ ___  _ __ ___   | |_) |_   _| |__ | |__ | | ___ 
+                              / /\ \| __/ _ \| '_ ` _ \  |  _ <| | | | '_ \| '_ \| |/ _ \
+                             / ____ \ || (_) | | | | | | | |_) | |_| | |_) | |_) | |  __/
+                            /_/    \_\__\___/|_| |_| |_| |____/ \__,_|_.__/|_.__/|_|\___|
                             
 # Getting Started
 
@@ -15,6 +15,10 @@ Atom Bubble is an Atom Editor package. To download it, simply search for "atombu
 **Note:** Currently Atom Bubble only works on JavaScript projects.
 
 # Usage
+### Opening the Package
+To open the package you can either select the atombubble "toggle" option on top of Atom(atombubble ==> toggle), or right mouse click any opened text editor to open up the context menu and select atombubble, then toggle.
+
+![bubble_3](/img/atombubble_open.png)
 
 ### Creating a Bubble
 To create a bubble, click on the **+** sign next to the function that needs to be created inside the Tree section on the right of the package pane. When a new bubble is created, it will have a random colour assigned to it.
@@ -45,7 +49,7 @@ The Bubble menu has three options:
 ![bubbles_1](/img/connectors.png)
 
 ### Saving current Session
-The Bubbles can be saved by clicking "Save Bubble Project" in Tree section on the right. 
+The Bubbles can be saved by clicking "Save Bubble Project" in Tree section on the right, this will create a "bubblesave.json" file inside the current directory. When Atom is reopened, the file will load automatically when the package is toggled. 
 
 
 
