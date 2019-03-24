@@ -16,7 +16,7 @@ Atom Bubble is an Atom Editor package. To download it, simply search for "atombu
 
 # Usage
 ### Opening the Package
-To open the package you can either select the atombubble "toggle" option on top of Atom(atombubble ==> toggle), or right mouse click any opened text editor to open up the context menu and select atombubble, then toggle.
+To open the package you can either select the atombubble "toggle" option on top of Atom(atombubble ==> Toggle), or right mouse click any opened text editor to open up the context menu and select atombubble, then Toggle.
 
 ![bubble_3](/img/atombubble_open.png)
 
