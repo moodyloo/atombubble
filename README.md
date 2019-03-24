@@ -12,6 +12,7 @@ A 3rd year University project for King's College London, inspired by the existin
 # Getting Started
 
 Atom Bubble is an Atom Editor package. To download it, simply search for "atombubble" in your Atom Editor's settings
+
 **Note:** Currently Atom Bubble only works on JavaScript projects.
 
 # Usage
