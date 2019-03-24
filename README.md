@@ -19,8 +19,16 @@ Atom Bubble is an Atom Editor package. To download it, simply search for "atombu
 ### Creating a Bubble
 To create a bubble, click on the **+** sign next to the function that needs to be created inside the Tree section on the right of the package pane. When a new bubble is created, it will have a random colour assigned to it.
 
+### Adding and Deleting Working set
+Working sets contains groups of bubbles and any other relationship lines. You can create new sets or delete sets using the "+" and "-" button on the top section. Click on the set you want to go to switch between them, as shown by the yellow bordered square on top. 
+
+### Toggling Tree and Top section
+The Top section containing working sets, and the Tree section containing functions and files can both be toggled by right mouse clicking them
+
+![bubbles_2](/img/atombubble_plain.png)
+
 ### Drag and Resize Bubbles
-The bubbles can be dragged around the board section by holding onto their file name(e.g subtest.js, test2.js etc in example below). They can also be resized into different shapes by dragging around its corners.
+The bubbles can be dragged around the board section by holding left mouse button on their file name(e.g subtest.js, test2.js etc in example below). They can also be resized into different shapes by dragging around its corners.
  
 ### Toggle Bubble Menu
 To toggle the menu inside the Bubbles, right mouse click the Bubble title(subtest.js,test2.js etc in example below) inside the Bubble component, above the text editor.
@@ -35,3 +43,9 @@ The Bubble menu has three options:
 ***"Link"*** allows a pair of Bubbles to link together, shown by a solid black line between them. To link two Bubbles, first click the Link option on one Bubble, then click on the other. When the link option is clicked twice consecutively on the same Bubble, a link won't be created.
 
 ![bubbles_1](/img/connectors.png)
+
+### Saving current Session
+The Bubbles can be saved by clicking "Save Bubble Project" in Tree section on the right. 
+
+
+
